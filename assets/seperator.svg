@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="52px" viewBox="0 0 1440 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>path-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M720,52 C900.120095,52 1140.1201,34.4391391 1440,0 L0,0 C299.337899,34.6666666 539.337899,52 720,52 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="path-1" fill="#FFFFFF" xlink:href="#path-1"></use>
+    </g>
+</svg>

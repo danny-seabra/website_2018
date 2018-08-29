@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="49px" viewBox="0 0 64 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>wireframing</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="36" y="0" width="28" height="12" rx="1"></rect>
+        <rect id="path-2" x="36" y="14" width="28" height="12" rx="1"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wireframing">
+            <g>
+                <rect id="Rectangle-13" fill="#273444" x="0" y="0" width="28" height="2.5" rx="1"></rect>
+                <rect id="Rectangle-13-Copy-4" fill="#273444" x="36" y="30" width="28" height="2.5" rx="1"></rect>
+                <path d="M1,21 L27,21 C27.5522847,21 28,21.4477153 28,22 L28,48 C28,48.5522847 27.5522847,49 27,49 L1,49 C0.44771525,49 6.76353751e-17,48.5522847 0,48 L0,22 C-6.76353751e-17,21.4477153 0.44771525,21 1,21 Z" id="Rectangle-14" fill="#273444" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#D2E9F7" points="2.5 23.5 2.5 46.5 25.5 46.5 25.5 23.5"></polygon>
+                <rect id="Rectangle-13-Copy" fill="#273444" x="0" y="6" width="24.0812142" height="2.5" rx="1"></rect>
+                <rect id="Rectangle-13-Copy-7" fill="#273444" x="36" y="36" width="24.0812142" height="2.5" rx="1"></rect>
+                <rect id="Rectangle-13-Copy-2" fill="#273444" x="0" y="12" width="25.7142857" height="2.5" rx="1"></rect>
+                <rect id="Rectangle-13-Copy-8" fill="#273444" x="36" y="42" width="25.7142857" height="2.5" rx="1"></rect>
+                <g id="Rectangle-14-Copy">
+                    <use fill="#D2E9F7" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#273444" stroke-width="2.5" x="37.25" y="1.25" width="25.5" height="9.5" rx="1"></rect>
+                </g>
+                <g id="Rectangle-14-Copy-2">
+                    <use fill="#D2E9F7" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#273444" stroke-width="2.5" x="37.25" y="15.25" width="25.5" height="9.5" rx="1"></rect>
+                </g>
+            </g>
+            <polygon id="Rectangle-18" fill="#273444" points="2.22966407 22.9808534 4.27445213 22.9808534 25.7571808 44.922541 25.7571808 47.0115685 23.7128905 47.0344004 2.22966407 25.0698809"></polygon>
+            <polygon id="Rectangle-18" fill="#273444" points="25.7571808 22.9808534 25.7571808 25.0698809 4.27395434 47.0344004 2.22966407 47.0115685 2.22966407 44.922541 23.7123928 22.9808534"></polygon>
+        </g>
+    </g>
+</svg>

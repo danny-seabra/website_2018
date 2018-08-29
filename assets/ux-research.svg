@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>ux-research</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ux-research">
+            <path d="M18.5,36.25 C8.69694569,36.25 0.75,28.3030543 0.75,18.5 C0.75,8.69694569 8.69694569,0.75 18.5,0.75 C28.3030543,0.75 36.25,8.69694569 36.25,18.5 C36.25,28.3030543 28.3030543,36.25 18.5,36.25 Z" id="Oval-6" fill="#273444" fill-rule="nonzero"></path>
+            <path d="M18.5,33.75 C26.9223424,33.75 33.75,26.9223424 33.75,18.5 C33.75,10.0776576 26.9223424,3.25 18.5,3.25 C10.0776576,3.25 3.25,10.0776576 3.25,18.5 C3.25,26.9223424 10.0776576,33.75 18.5,33.75 Z" id="Path" fill="#D8ECF9"></path>
+            <rect id="Rectangle-13" fill="#273444" transform="translate(38.722718, 38.722718) rotate(45.000000) translate(-38.722718, -38.722718) " x="26.2227182" y="37.4727182" width="25" height="2.5" rx="1"></rect>
+            <g id="Group-7" transform="translate(18.500000, 18.500000) rotate(270.000000) translate(-18.500000, -18.500000) translate(11.000000, 11.000000)" fill="#273444">
+                <rect id="Rectangle-13" x="0" y="0" width="15" height="3" rx="1"></rect>
+                <rect id="Rectangle-13-Copy" x="0" y="6" width="13" height="3" rx="1"></rect>
+                <rect id="Rectangle-13-Copy-2" x="0" y="12" width="14" height="3" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

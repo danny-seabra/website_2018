@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66px" height="50px" viewBox="0 0 66 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>empathy-maps</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="empathy-maps">
+            <path d="M1,0 L65,0 C65.5522847,0 66,0.44771525 66,1 L66,38 C66,38.5522847 65.5522847,39 65,39 L1,39 C0.44771525,39 6.76353751e-17,38.5522847 0,38 L0,1 C-6.76353751e-17,0.44771525 0.44771525,0 1,0 Z" id="Rectangle-14-Copy-2" fill="#273444" fill-rule="nonzero"></path>
+            <polygon id="Path" fill="#D2E9F7" points="2.5 2.5 2.5 36.5 63.5 36.5 63.5 2.5"></polygon>
+            <g id="Group-6" transform="translate(0.000000, 36.500000)">
+                <path d="M1,0 L65,0 C65.5522847,-1.01453063e-16 66,0.44771525 66,1 L66,12 C66,12.5522847 65.5522847,13 65,13 L1,13 C0.44771525,13 6.76353751e-17,12.5522847 0,12 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01453063e-16 1,0 Z" id="Combined-Shape" fill="#273444" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#9ECFEF" points="2.5 2.5 2.5 10.5 63.5 10.5 63.5 2.5"></polygon>
+                <rect id="Rectangle-17" fill="#273444" x="32" y="2" width="2.5" height="9"></rect>
+            </g>
+            <polygon id="Rectangle-13-Copy-4" fill="#273444" points="1.76776695 1.14897193 65.7303655 37.2513607 63.9625985 39.0191276 1.47437618e-13 2.91673888"></polygon>
+            <polygon id="Rectangle-13-Copy-4" fill="#273444" points="63.9625985 1.14897193 65.7303655 2.91673888 1.76776695 39.0191276 -3.55271368e-14 37.2513607"></polygon>
+            <path d="M33,29.25 C27.8913661,29.25 23.75,25.1086339 23.75,20 C23.75,14.8913661 27.8913661,10.75 33,10.75 C38.1086339,10.75 42.25,14.8913661 42.25,20 C42.25,25.1086339 38.1086339,29.25 33,29.25 Z" id="Path" fill="#273444"></path>
+            <path d="M33,26.75 C36.7279221,26.75 39.75,23.7279221 39.75,20 C39.75,16.2720779 36.7279221,13.25 33,13.25 C29.2720779,13.25 26.25,16.2720779 26.25,20 C26.25,23.7279221 29.2720779,26.75 33,26.75 Z" id="Oval-5" fill="#9ECFEF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
